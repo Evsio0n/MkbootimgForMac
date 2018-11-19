@@ -8,7 +8,7 @@ You can use /bin directly if you want to save time.
 
 
 
-For security issue you can use the scource code in /mkboot-img-master with 'make' command.
+For security issues you can use the scource code in /mkboot-img-master with 'make' command.
 
 
 ##########################################################################################
