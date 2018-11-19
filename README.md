@@ -4,7 +4,7 @@ Use mkbootimg for Mac .
 
 ##########################################################################################
 
-You can use /bin directtly if you want to save time.
+You can use /bin directly if you want to save time.
 
 
 
