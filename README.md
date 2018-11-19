@@ -14,4 +14,4 @@ For security issue you can use the scource code in /mkboot-img-master with 'make
 ##########################################################################################
 
 
-Not long turn suppport.
+Not long time suppport.
